@@ -30,18 +30,18 @@ Build an application that enables customers to find fintech professionals from a
 
 ![Choose a Fintech Professional to Hire](https://github.com/Kachiamo/Module_19/blob/main/Images/receipient's-address-1.png)
 
-![Choose a Fintech Professional to Hire]("C:\Users\quaku\OneDrive\Desktop\Git Clones-Repo\Module_19\Images\Reciepient-address-2.png")
+![Choose a Fintech Professional to Hire](https://github.com/Kachiamo/Module_19/blob/main/Images/Reciepient-address-2.png)
 
 
 * Inspect the transaction on Ganache.
   * Review the transaction hash code associated with the validated blockchain transaction. Check the account balance, and see if it subtracted the Total Wage in Ether.
 
-![Account Balance]("C:\Users\quaku\OneDrive\Desktop\Git Clones-Repo\Module_19\Images\Account-balance-after-1st-trans.png")
+![Account Balance](https://github.com/Kachiamo/Module_19/blob/main/Images/Account-balance-after-1st-trans.png)
 
-![Transaction Confirmation 1]("C:\Users\quaku\OneDrive\Desktop\Git Clones-Repo\Module_19\Images\Block-1.png")
+![Transaction Confirmation 1](https://github.com/Kachiamo/Module_19/blob/main/Images/Block-1.png)
 
-![Transaction Confirmation 2]("C:\Users\quaku\OneDrive\Desktop\Git Clones-Repo\Module_19\Images\Block-2.png")
+![Transaction Confirmation 2](https://github.com/Kachiamo/Module_19/blob/main/Images/Block-2.png)
 
-![Transaction Confirmation 1]("C:\Users\quaku\OneDrive\Desktop\Git Clones-Repo\Module_19\Images\Jo's-tranaction-validation-hash.png")
+![Transaction Confirmation 1](https://github.com/Kachiamo/Module_19/blob/main/Images/Lane-Validation-hash.png)
 
-![Transaction Confirmation 2]("C:\Users\quaku\OneDrive\Desktop\Git Clones-Repo\Module_19\Images\Lane-Validation-hash.png")
+![Transaction Confirmation 2](https://github.com/Kachiamo/Module_19/blob/main/Images/Jo's-tranaction-validation-hash.png)
