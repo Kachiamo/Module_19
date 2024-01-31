@@ -28,7 +28,7 @@ Build an application that enables customers to find fintech professionals from a
 * Sign and execute a payment transaction on KryptoJobs2Go customer interface.
   * Digitally sign a transaction that pays a KryptoJobs2Go candidate, and send this transaction to the Ganache blockchain. Note the Total Wage in Ether.
 
-![Choose a Fintech Professional to Hire]("C:\Users\quaku\OneDrive\Desktop\Git Clones-Repo\Module_19\Images\receipient's-address-1.png")
+![Choose a Fintech Professional to Hire](Images\receipient's-address-1.png)
 
 ![Choose a Fintech Professional to Hire]("C:\Users\quaku\OneDrive\Desktop\Git Clones-Repo\Module_19\Images\Reciepient-address-2.png")
 
